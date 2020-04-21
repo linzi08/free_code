@@ -1,0 +1,16 @@
+--2019-10-21 11:34:38--  https://segmentfault.com/img/remote/1460000020718984?w=800
+Resolving segmentfault.com (segmentfault.com)... 112.126.83.219
+Connecting to segmentfault.com (segmentfault.com)|112.126.83.219|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://image-static.segmentfault.com/387/292/3872920593-5da80cbfa5afc_articlex [following]
+--2019-10-21 11:34:38--  https://image-static.segmentfault.com/387/292/3872920593-5da80cbfa5afc_articlex
+Resolving image-static.segmentfault.com (image-static.segmentfault.com)... 61.179.240.145
+Connecting to image-static.segmentfault.com (image-static.segmentfault.com)|61.179.240.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29135 (28K) [image/jpeg]
+Saving to: ‘1460000020718984?w=800’
+
+1460000020718984?w=800             0%[                                                         ]       0  --.-KB/s               1460000020718984?w=800           100%[========================================================>]  28.45K  --.-KB/s    in 0.006s  
+
+2019-10-21 11:34:38 (4.73 MB/s) - ‘1460000020718984?w=800’ saved [29135/29135]
+
