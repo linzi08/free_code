@@ -57,6 +57,7 @@ plainTransportOptions :
 这个报错：
 ”Invalid tag name ">=^16.0.0": Tags may not have any characters that encodeURIComponent encodes.”
 解决：npm install --legacy-peer-deps
+参考：https://carywill.github.io/Blog/src/2022/npm-versioning/index.html
 
 虚拟机环境下看不到对方的视频可以参考：
 https://blog.csdn.net/jiayp004/article/details/106017712
